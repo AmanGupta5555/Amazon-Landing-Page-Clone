@@ -13,7 +13,7 @@ Technologies Used:-
 2) CSS: Used for styling and layout, bringing the visual elements to life.
 
 Usage:-
-To experience this Amazon landing page clone click here : 
+To experience this Amazon landing page clone click here : https://amangupta5555.github.io/Amazon-Landing-Page-Clone/
 
 Contribution:-
 I welcome contributions! If you'd like to enhance this project or spot areas for improvement, feel free to fork the repository and submit a pull request.
